@@ -1,0 +1,4 @@
+a = 20155
+array = str(a)
+print (len(array))
+
